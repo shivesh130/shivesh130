@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Shivesh Tiwari
+---
+<p align="center">
+📊 Activity & Impact
+</p>
 
-<!--
-**shivesh130/shivesh130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### **🛠️ Technologies I Use**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,mysql,numpy,pandas,matplotlib&theme=dark" alt="Backend and Data" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,raspberrypi,vscode,vim,bash,md,anaconda,tmux&theme=dark" alt="Tools" />
+</p>
+</p>
