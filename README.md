@@ -40,3 +40,37 @@
   <img src="https://streak-stats.demolab.com?user=shivesh130&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+<h2 align="center">💫 Hi, I'm Bitan Banerjee</h2>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bitan-banerjee244&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitan-banerjee244&theme=dracula" width="49%"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shivesh130&theme=dracula&hide_border=true" width="98%"/>
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shivesh130/shivesh130/output/github-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shivesh130&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</p>
+
