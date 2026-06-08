@@ -31,41 +31,24 @@
 
 <img align="right" height="300px" width="400px" src="https://giffiles.alphacoders.com/363/36302.gif"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivesh130&label=Profile%20views&color=4a91d9&style=flat" alt="shivesh130" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivesh1430&label=Profile%20views&color=4a91d9&style=flat" alt="shivesh130" /> </p>
  <h3> 🔍 About Me: </h3>
 - 🌱 I’m currently learning <strong>Web Development</strong>
 
 - 📫 How to reach me **shivesht066@gmail.com**
 
   <img src="https://streak-stats.demolab.com?user=shivesh130&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
-<h2 align="center">💫 Hi, I'm Bitan Banerjee</h2>
+
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bitan-banerjee244&theme=dracula" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitan-banerjee244&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivesh130&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivesh130&theme=dracula" width="49%"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shivesh130&theme=dracula&hide_border=true" width="98%"/>
-</p>
-
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shivesh130/shivesh130/output/github-snake-dark.svg" width="100%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivesh130&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
