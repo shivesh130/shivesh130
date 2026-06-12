@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">A passionate Softwere developer from India</h3>
+<h3 align="center">A passionate Data Enginner from India</h3>
 
 
 <br clear="both">
