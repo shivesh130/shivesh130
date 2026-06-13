@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivesh130&label=Profile%20views&color=4a91d9&style=flat" alt="shivesh130" /> </p>
  <h3> 🔍 About Me: </h3>
-- 🌱 I’m currently learning <strong>Web Development</strong>
+- 🌱 I’m currently learning <strong>Data science</strong>
 
 - 📫 How to reach me **shivesht066@gmail.com** 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
