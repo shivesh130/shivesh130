@@ -23,12 +23,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
 
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivesh130&theme=dracula" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivesh130&theme=dracula" width="49%"/>
-</p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shivesh130&theme=dracula&hide_border=true" width="98%"/>
 </p>
