@@ -19,7 +19,8 @@
  <h3> 🔍 About Me: </h3>
 - 🌱 I’m currently learning <strong>Data science</strong>
 
-- 📫 How to reach me **shivesht066@gmail.com** 
+- 📫 How to reach me **shivesht066@gmail.com**
+  <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" height="350"/>
 
 </div>
