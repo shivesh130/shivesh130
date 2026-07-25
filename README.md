@@ -20,12 +20,12 @@
 - 🌱 I’m currently learning <strong>Data science</strong>
 
 - 📫 How to reach me **shivesht066@gmail.com** 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" height="350"/>
 
 </div>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivesh130&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivesh130&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
 
 </p>
 
