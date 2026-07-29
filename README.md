@@ -26,9 +26,9 @@
 </div>
 
 <p align="center">
-<img src="https://githubreadmestreakstats.herokuapp.com/user=shivesh130&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
-
-
+  <img
+    src="https://streak-stats.demolab.com?user=shivesh130&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa"
+    width="60%" />
 </p>
 
 ---
