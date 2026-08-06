@@ -18,13 +18,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivesh130&label=Profile%20views&color=4a91d9&style=flat" alt="shivesh130" /> </p>
  <h3> 🔍 About Me: </h3>
 - 🏫 College: Swami Vivekananda University, Barrackpore
+
 - 🎓 Degree: B.Tech in Computer Science & Engineering
+
 - 📅 Year of Study: 2nd Year
--💡 Passionate about Web Development & Data Analytics
--🚀 Love building beginner-friendly and real-world projects
--🎯 Career Goal: To become a skilled Python Full Stack Developer and <strong>Data Enginner</strong>
+
+- 💡 Passionate about Web Development & Data Analytics
+
+- 🚀 Love building beginner-friendly and real-world projects
+
+- 🎯 Career Goal: To become a skilled Python Full Stack Developer and <strong>Data Engineer</strong>
 
 - 📫 How to reach me **shivesht066@gmail.com**
+
+  
   <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh130&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" height="350"/>
 
